@@ -1,0 +1,6 @@
+{
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "terminal.integrated.suggest.quickSuggestions": false
+}
